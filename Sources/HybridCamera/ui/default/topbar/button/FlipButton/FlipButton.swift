@@ -4,7 +4,7 @@ open class FlipButton: ToggleButton {
    override public init(frame: CGRect) {
       super.init(frame: FlipButton.rect)
       backgroundColor = .clear
-      self.setImage(#imageLiteral(resourceName: "flipCamera"), for: .normal)
+      self.setImage(UIImage(systemName: "arrow.triangle.2.circlepath.camera"), for: .normal)
    }
    /**
     * Boilerplate
