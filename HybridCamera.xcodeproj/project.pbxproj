@@ -7,46 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E0219ED259FB06500BDFD96 /* CustomProcessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219BA259FB06500BDFD96 /* CustomProcessView.swift */; };
+		4E0219EE259FB06500BDFD96 /* CustomCamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219BB259FB06500BDFD96 /* CustomCamView.swift */; };
+		4E0219EF259FB06500BDFD96 /* RecordButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219BE259FB06500BDFD96 /* RecordButton+Event.swift */; };
+		4E0219F0259FB06500BDFD96 /* RecordButton+Handler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219BF259FB06500BDFD96 /* RecordButton+Handler.swift */; };
+		4E0219F1259FB06500BDFD96 /* RecordButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219C0259FB06500BDFD96 /* RecordButton+Const.swift */; };
+		4E0219F2259FB06500BDFD96 /* Circle+Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219C2259FB06500BDFD96 /* Circle+Helper.swift */; };
+		4E0219F3259FB06500BDFD96 /* Circle+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219C3259FB06500BDFD96 /* Circle+Const.swift */; };
+		4E0219F4259FB06500BDFD96 /* Circle+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219C4259FB06500BDFD96 /* Circle+Create.swift */; };
+		4E0219F5259FB06500BDFD96 /* Circle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219C5259FB06500BDFD96 /* Circle.swift */; };
+		4E0219F6259FB06500BDFD96 /* RecordButton+Anim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219C6259FB06500BDFD96 /* RecordButton+Anim.swift */; };
+		4E0219F7259FB06500BDFD96 /* RecordButton+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219C7259FB06500BDFD96 /* RecordButton+Create.swift */; };
+		4E0219F8259FB06500BDFD96 /* RecordButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219C8259FB06500BDFD96 /* RecordButton.swift */; };
+		4E0219F9259FB06500BDFD96 /* ShareButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219CA259FB06500BDFD96 /* ShareButton+Const.swift */; };
+		4E0219FA259FB06500BDFD96 /* ShareButton+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219CB259FB06500BDFD96 /* ShareButton+Style.swift */; };
+		4E0219FB259FB06500BDFD96 /* ShareButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219CC259FB06500BDFD96 /* ShareButton.swift */; };
+		4E0219FC259FB06500BDFD96 /* ShareButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219CD259FB06500BDFD96 /* ShareButton+Event.swift */; };
+		4E0219FD259FB06500BDFD96 /* ClickButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219D0259FB06500BDFD96 /* ClickButton+Event.swift */; };
+		4E0219FE259FB06500BDFD96 /* ClickButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219D1259FB06500BDFD96 /* ClickButton.swift */; };
+		4E0219FF259FB06500BDFD96 /* ToggleButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219D3259FB06500BDFD96 /* ToggleButton+Event.swift */; };
+		4E021A00259FB06500BDFD96 /* ToggleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219D4259FB06500BDFD96 /* ToggleButton.swift */; };
+		4E021A01259FB06500BDFD96 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219D6259FB06500BDFD96 /* RoundButton.swift */; };
+		4E021A02259FB06500BDFD96 /* RoundButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219D7259FB06500BDFD96 /* RoundButton+Event.swift */; };
+		4E021A03259FB06500BDFD96 /* ZoomSwitcerBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219D9259FB06500BDFD96 /* ZoomSwitcerBtn.swift */; };
+		4E021A04259FB06500BDFD96 /* ZoomSwitcerBtn+Handler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219DA259FB06500BDFD96 /* ZoomSwitcerBtn+Handler.swift */; };
+		4E021A05259FB06500BDFD96 /* ZoomSwitcerBtn+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219DB259FB06500BDFD96 /* ZoomSwitcerBtn+Style.swift */; };
+		4E021A06259FB06500BDFD96 /* ZoomSwitcerBtn+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219DC259FB06500BDFD96 /* ZoomSwitcerBtn+Const.swift */; };
+		4E021A07259FB06500BDFD96 /* TopBar+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219DE259FB06500BDFD96 /* TopBar+Const.swift */; };
+		4E021A08259FB06500BDFD96 /* TopBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219DF259FB06500BDFD96 /* TopBar.swift */; };
+		4E021A09259FB06500BDFD96 /* ExitButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219E2259FB06500BDFD96 /* ExitButton.swift */; };
+		4E021A0A259FB06500BDFD96 /* ExitButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219E3259FB06500BDFD96 /* ExitButton+Const.swift */; };
+		4E021A0B259FB06500BDFD96 /* FlipButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219E5259FB06500BDFD96 /* FlipButton+Const.swift */; };
+		4E021A0C259FB06500BDFD96 /* FlipButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219E6259FB06500BDFD96 /* FlipButton.swift */; };
+		4E021A0D259FB06500BDFD96 /* FlashButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219E8259FB06500BDFD96 /* FlashButton+Const.swift */; };
+		4E021A0E259FB06500BDFD96 /* FlashButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219E9259FB06500BDFD96 /* FlashButton.swift */; };
+		4E021A0F259FB06500BDFD96 /* TopBar+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219EA259FB06500BDFD96 /* TopBar+Create.swift */; };
+		4E021A10259FB06500BDFD96 /* ZoomSwitcherKind+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0219EC259FB06500BDFD96 /* ZoomSwitcherKind+Extension.swift */; };
 		F1059EE222EC36C6004A8346 /* ViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1059EE122EC36C6004A8346 /* ViewController+Extension.swift */; };
 		F13682812435011B00DDC072 /* ZoomSwitcherKit in Frameworks */ = {isa = PBXBuildFile; productRef = F13682802435011B00DDC072 /* ZoomSwitcherKit */; };
 		F13682842435019A00DDC072 /* ResultSugar in Frameworks */ = {isa = PBXBuildFile; productRef = F13682832435019A00DDC072 /* ResultSugar */; };
 		F13682872435023600DDC072 /* With in Frameworks */ = {isa = PBXBuildFile; productRef = F13682862435023600DDC072 /* With */; };
-		F13682BC2435027800DDC072 /* CustomProcessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682892435027800DDC072 /* CustomProcessView.swift */; };
-		F13682BD2435027800DDC072 /* CustomCamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F136828A2435027800DDC072 /* CustomCamView.swift */; };
-		F13682BE2435027800DDC072 /* RecordButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = F136828D2435027800DDC072 /* RecordButton+Event.swift */; };
-		F13682BF2435027800DDC072 /* RecordButton+Handler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F136828E2435027800DDC072 /* RecordButton+Handler.swift */; };
-		F13682C02435027800DDC072 /* RecordButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = F136828F2435027800DDC072 /* RecordButton+Const.swift */; };
-		F13682C12435027800DDC072 /* Circle+Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682912435027800DDC072 /* Circle+Helper.swift */; };
-		F13682C22435027800DDC072 /* Circle+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682922435027800DDC072 /* Circle+Const.swift */; };
-		F13682C32435027800DDC072 /* Circle+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682932435027800DDC072 /* Circle+Create.swift */; };
-		F13682C42435027800DDC072 /* Circle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682942435027800DDC072 /* Circle.swift */; };
-		F13682C52435027800DDC072 /* RecordButton+Anim.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682952435027800DDC072 /* RecordButton+Anim.swift */; };
-		F13682C62435027800DDC072 /* RecordButton+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682962435027800DDC072 /* RecordButton+Create.swift */; };
-		F13682C72435027800DDC072 /* RecordButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682972435027800DDC072 /* RecordButton.swift */; };
-		F13682C82435027800DDC072 /* ShareButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682992435027800DDC072 /* ShareButton+Const.swift */; };
-		F13682C92435027800DDC072 /* ShareButton+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = F136829A2435027800DDC072 /* ShareButton+Style.swift */; };
-		F13682CA2435027800DDC072 /* ShareButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F136829B2435027800DDC072 /* ShareButton.swift */; };
-		F13682CB2435027800DDC072 /* ShareButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = F136829C2435027800DDC072 /* ShareButton+Event.swift */; };
-		F13682CC2435027800DDC072 /* ClickButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = F136829F2435027800DDC072 /* ClickButton+Event.swift */; };
-		F13682CD2435027800DDC072 /* ClickButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682A02435027800DDC072 /* ClickButton.swift */; };
-		F13682CE2435027800DDC072 /* ToggleButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682A22435027800DDC072 /* ToggleButton+Event.swift */; };
-		F13682CF2435027800DDC072 /* ToggleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682A32435027800DDC072 /* ToggleButton.swift */; };
-		F13682D02435027800DDC072 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682A52435027800DDC072 /* RoundButton.swift */; };
-		F13682D12435027800DDC072 /* RoundButton+Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682A62435027800DDC072 /* RoundButton+Event.swift */; };
-		F13682D22435027800DDC072 /* ZoomSwitcerBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682A82435027800DDC072 /* ZoomSwitcerBtn.swift */; };
-		F13682D32435027800DDC072 /* ZoomSwitcerBtn+Handler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682A92435027800DDC072 /* ZoomSwitcerBtn+Handler.swift */; };
-		F13682D42435027800DDC072 /* ZoomSwitcerBtn+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682AA2435027800DDC072 /* ZoomSwitcerBtn+Style.swift */; };
-		F13682D52435027800DDC072 /* ZoomSwitcerBtn+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682AB2435027800DDC072 /* ZoomSwitcerBtn+Const.swift */; };
-		F13682D62435027900DDC072 /* TopBar+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682AD2435027800DDC072 /* TopBar+Const.swift */; };
-		F13682D72435027900DDC072 /* TopBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682AE2435027800DDC072 /* TopBar.swift */; };
-		F13682D82435027900DDC072 /* ExitButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682B12435027800DDC072 /* ExitButton.swift */; };
-		F13682D92435027900DDC072 /* ExitButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682B22435027800DDC072 /* ExitButton+Const.swift */; };
-		F13682DA2435027900DDC072 /* FlipButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682B42435027800DDC072 /* FlipButton+Const.swift */; };
-		F13682DB2435027900DDC072 /* FlipButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682B52435027800DDC072 /* FlipButton.swift */; };
-		F13682DC2435027900DDC072 /* FlashButton+Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682B72435027800DDC072 /* FlashButton+Const.swift */; };
-		F13682DD2435027900DDC072 /* FlashButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682B82435027800DDC072 /* FlashButton.swift */; };
-		F13682DE2435027900DDC072 /* TopBar+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682B92435027800DDC072 /* TopBar+Create.swift */; };
-		F13682DF2435027900DDC072 /* ZoomSwitcherKind+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682BB2435027800DDC072 /* ZoomSwitcherKind+Extension.swift */; };
 		F136832C2435054900DDC072 /* RecordButtonViewKind.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682E42435054900DDC072 /* RecordButtonViewKind.swift */; };
 		F136832D2435054900DDC072 /* TopBarViewKind.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682E52435054900DDC072 /* TopBarViewKind.swift */; };
 		F136832E2435054900DDC072 /* TopBarKind.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13682E62435054900DDC072 /* TopBarKind.swift */; };
@@ -126,43 +126,43 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4E0219BA259FB06500BDFD96 /* CustomProcessView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomProcessView.swift; sourceTree = "<group>"; };
+		4E0219BB259FB06500BDFD96 /* CustomCamView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCamView.swift; sourceTree = "<group>"; };
+		4E0219BE259FB06500BDFD96 /* RecordButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Event.swift"; sourceTree = "<group>"; };
+		4E0219BF259FB06500BDFD96 /* RecordButton+Handler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Handler.swift"; sourceTree = "<group>"; };
+		4E0219C0259FB06500BDFD96 /* RecordButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Const.swift"; sourceTree = "<group>"; };
+		4E0219C2259FB06500BDFD96 /* Circle+Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Circle+Helper.swift"; sourceTree = "<group>"; };
+		4E0219C3259FB06500BDFD96 /* Circle+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Circle+Const.swift"; sourceTree = "<group>"; };
+		4E0219C4259FB06500BDFD96 /* Circle+Create.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Circle+Create.swift"; sourceTree = "<group>"; };
+		4E0219C5259FB06500BDFD96 /* Circle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Circle.swift; sourceTree = "<group>"; };
+		4E0219C6259FB06500BDFD96 /* RecordButton+Anim.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Anim.swift"; sourceTree = "<group>"; };
+		4E0219C7259FB06500BDFD96 /* RecordButton+Create.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Create.swift"; sourceTree = "<group>"; };
+		4E0219C8259FB06500BDFD96 /* RecordButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordButton.swift; sourceTree = "<group>"; };
+		4E0219CA259FB06500BDFD96 /* ShareButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ShareButton+Const.swift"; sourceTree = "<group>"; };
+		4E0219CB259FB06500BDFD96 /* ShareButton+Style.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ShareButton+Style.swift"; sourceTree = "<group>"; };
+		4E0219CC259FB06500BDFD96 /* ShareButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShareButton.swift; sourceTree = "<group>"; };
+		4E0219CD259FB06500BDFD96 /* ShareButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ShareButton+Event.swift"; sourceTree = "<group>"; };
+		4E0219D0259FB06500BDFD96 /* ClickButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ClickButton+Event.swift"; sourceTree = "<group>"; };
+		4E0219D1259FB06500BDFD96 /* ClickButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClickButton.swift; sourceTree = "<group>"; };
+		4E0219D3259FB06500BDFD96 /* ToggleButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ToggleButton+Event.swift"; sourceTree = "<group>"; };
+		4E0219D4259FB06500BDFD96 /* ToggleButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToggleButton.swift; sourceTree = "<group>"; };
+		4E0219D6259FB06500BDFD96 /* RoundButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
+		4E0219D7259FB06500BDFD96 /* RoundButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RoundButton+Event.swift"; sourceTree = "<group>"; };
+		4E0219D9259FB06500BDFD96 /* ZoomSwitcerBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZoomSwitcerBtn.swift; sourceTree = "<group>"; };
+		4E0219DA259FB06500BDFD96 /* ZoomSwitcerBtn+Handler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ZoomSwitcerBtn+Handler.swift"; sourceTree = "<group>"; };
+		4E0219DB259FB06500BDFD96 /* ZoomSwitcerBtn+Style.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ZoomSwitcerBtn+Style.swift"; sourceTree = "<group>"; };
+		4E0219DC259FB06500BDFD96 /* ZoomSwitcerBtn+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ZoomSwitcerBtn+Const.swift"; sourceTree = "<group>"; };
+		4E0219DE259FB06500BDFD96 /* TopBar+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TopBar+Const.swift"; sourceTree = "<group>"; };
+		4E0219DF259FB06500BDFD96 /* TopBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopBar.swift; sourceTree = "<group>"; };
+		4E0219E2259FB06500BDFD96 /* ExitButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExitButton.swift; sourceTree = "<group>"; };
+		4E0219E3259FB06500BDFD96 /* ExitButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ExitButton+Const.swift"; sourceTree = "<group>"; };
+		4E0219E5259FB06500BDFD96 /* FlipButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FlipButton+Const.swift"; sourceTree = "<group>"; };
+		4E0219E6259FB06500BDFD96 /* FlipButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlipButton.swift; sourceTree = "<group>"; };
+		4E0219E8259FB06500BDFD96 /* FlashButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FlashButton+Const.swift"; sourceTree = "<group>"; };
+		4E0219E9259FB06500BDFD96 /* FlashButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlashButton.swift; sourceTree = "<group>"; };
+		4E0219EA259FB06500BDFD96 /* TopBar+Create.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TopBar+Create.swift"; sourceTree = "<group>"; };
+		4E0219EC259FB06500BDFD96 /* ZoomSwitcherKind+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ZoomSwitcherKind+Extension.swift"; sourceTree = "<group>"; };
 		F1059EE122EC36C6004A8346 /* ViewController+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+Extension.swift"; sourceTree = "<group>"; };
-		F13682892435027800DDC072 /* CustomProcessView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomProcessView.swift; sourceTree = "<group>"; };
-		F136828A2435027800DDC072 /* CustomCamView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCamView.swift; sourceTree = "<group>"; };
-		F136828D2435027800DDC072 /* RecordButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Event.swift"; sourceTree = "<group>"; };
-		F136828E2435027800DDC072 /* RecordButton+Handler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Handler.swift"; sourceTree = "<group>"; };
-		F136828F2435027800DDC072 /* RecordButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Const.swift"; sourceTree = "<group>"; };
-		F13682912435027800DDC072 /* Circle+Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Circle+Helper.swift"; sourceTree = "<group>"; };
-		F13682922435027800DDC072 /* Circle+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Circle+Const.swift"; sourceTree = "<group>"; };
-		F13682932435027800DDC072 /* Circle+Create.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Circle+Create.swift"; sourceTree = "<group>"; };
-		F13682942435027800DDC072 /* Circle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Circle.swift; sourceTree = "<group>"; };
-		F13682952435027800DDC072 /* RecordButton+Anim.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Anim.swift"; sourceTree = "<group>"; };
-		F13682962435027800DDC072 /* RecordButton+Create.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RecordButton+Create.swift"; sourceTree = "<group>"; };
-		F13682972435027800DDC072 /* RecordButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordButton.swift; sourceTree = "<group>"; };
-		F13682992435027800DDC072 /* ShareButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ShareButton+Const.swift"; sourceTree = "<group>"; };
-		F136829A2435027800DDC072 /* ShareButton+Style.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ShareButton+Style.swift"; sourceTree = "<group>"; };
-		F136829B2435027800DDC072 /* ShareButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShareButton.swift; sourceTree = "<group>"; };
-		F136829C2435027800DDC072 /* ShareButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ShareButton+Event.swift"; sourceTree = "<group>"; };
-		F136829F2435027800DDC072 /* ClickButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ClickButton+Event.swift"; sourceTree = "<group>"; };
-		F13682A02435027800DDC072 /* ClickButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClickButton.swift; sourceTree = "<group>"; };
-		F13682A22435027800DDC072 /* ToggleButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ToggleButton+Event.swift"; sourceTree = "<group>"; };
-		F13682A32435027800DDC072 /* ToggleButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToggleButton.swift; sourceTree = "<group>"; };
-		F13682A52435027800DDC072 /* RoundButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
-		F13682A62435027800DDC072 /* RoundButton+Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RoundButton+Event.swift"; sourceTree = "<group>"; };
-		F13682A82435027800DDC072 /* ZoomSwitcerBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZoomSwitcerBtn.swift; sourceTree = "<group>"; };
-		F13682A92435027800DDC072 /* ZoomSwitcerBtn+Handler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ZoomSwitcerBtn+Handler.swift"; sourceTree = "<group>"; };
-		F13682AA2435027800DDC072 /* ZoomSwitcerBtn+Style.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ZoomSwitcerBtn+Style.swift"; sourceTree = "<group>"; };
-		F13682AB2435027800DDC072 /* ZoomSwitcerBtn+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ZoomSwitcerBtn+Const.swift"; sourceTree = "<group>"; };
-		F13682AD2435027800DDC072 /* TopBar+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TopBar+Const.swift"; sourceTree = "<group>"; };
-		F13682AE2435027800DDC072 /* TopBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopBar.swift; sourceTree = "<group>"; };
-		F13682B12435027800DDC072 /* ExitButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExitButton.swift; sourceTree = "<group>"; };
-		F13682B22435027800DDC072 /* ExitButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ExitButton+Const.swift"; sourceTree = "<group>"; };
-		F13682B42435027800DDC072 /* FlipButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FlipButton+Const.swift"; sourceTree = "<group>"; };
-		F13682B52435027800DDC072 /* FlipButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlipButton.swift; sourceTree = "<group>"; };
-		F13682B72435027800DDC072 /* FlashButton+Const.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FlashButton+Const.swift"; sourceTree = "<group>"; };
-		F13682B82435027800DDC072 /* FlashButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlashButton.swift; sourceTree = "<group>"; };
-		F13682B92435027800DDC072 /* TopBar+Create.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TopBar+Create.swift"; sourceTree = "<group>"; };
-		F13682BB2435027800DDC072 /* ZoomSwitcherKind+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ZoomSwitcherKind+Extension.swift"; sourceTree = "<group>"; };
 		F13682E42435054900DDC072 /* RecordButtonViewKind.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordButtonViewKind.swift; sourceTree = "<group>"; };
 		F13682E52435054900DDC072 /* TopBarViewKind.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopBarViewKind.swift; sourceTree = "<group>"; };
 		F13682E62435054900DDC072 /* TopBarKind.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopBarKind.swift; sourceTree = "<group>"; };
@@ -244,165 +244,166 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F13682882435027800DDC072 /* ui */ = {
+		4E0219B9259FB06500BDFD96 /* default */ = {
 			isa = PBXGroup;
 			children = (
-				F13682892435027800DDC072 /* CustomProcessView.swift */,
-				F136828A2435027800DDC072 /* CustomCamView.swift */,
-				F136828B2435027800DDC072 /* button */,
-				F13682AC2435027800DDC072 /* topbar */,
-				F13682BA2435027800DDC072 /* BottomBar */,
+				4E0219BA259FB06500BDFD96 /* CustomProcessView.swift */,
+				4E0219BB259FB06500BDFD96 /* CustomCamView.swift */,
+				4E0219BC259FB06500BDFD96 /* button */,
+				4E0219DD259FB06500BDFD96 /* topbar */,
+				4E0219EB259FB06500BDFD96 /* BottomBar */,
 			);
-			path = ui;
+			name = default;
+			path = ../../../../../.Trash/default;
 			sourceTree = "<group>";
 		};
-		F136828B2435027800DDC072 /* button */ = {
+		4E0219BC259FB06500BDFD96 /* button */ = {
 			isa = PBXGroup;
 			children = (
-				F136828C2435027800DDC072 /* RecordButton */,
-				F13682982435027800DDC072 /* ShareButton */,
-				F136829D2435027800DDC072 /* helper */,
-				F13682A72435027800DDC072 /* DEPRECATED */,
+				4E0219BD259FB06500BDFD96 /* RecordButton */,
+				4E0219C9259FB06500BDFD96 /* ShareButton */,
+				4E0219CE259FB06500BDFD96 /* helper */,
+				4E0219D8259FB06500BDFD96 /* DEPRECATED */,
 			);
 			path = button;
 			sourceTree = "<group>";
 		};
-		F136828C2435027800DDC072 /* RecordButton */ = {
+		4E0219BD259FB06500BDFD96 /* RecordButton */ = {
 			isa = PBXGroup;
 			children = (
-				F136828D2435027800DDC072 /* RecordButton+Event.swift */,
-				F136828E2435027800DDC072 /* RecordButton+Handler.swift */,
-				F136828F2435027800DDC072 /* RecordButton+Const.swift */,
-				F13682902435027800DDC072 /* Circle */,
-				F13682942435027800DDC072 /* Circle.swift */,
-				F13682952435027800DDC072 /* RecordButton+Anim.swift */,
-				F13682962435027800DDC072 /* RecordButton+Create.swift */,
-				F13682972435027800DDC072 /* RecordButton.swift */,
+				4E0219BE259FB06500BDFD96 /* RecordButton+Event.swift */,
+				4E0219BF259FB06500BDFD96 /* RecordButton+Handler.swift */,
+				4E0219C0259FB06500BDFD96 /* RecordButton+Const.swift */,
+				4E0219C1259FB06500BDFD96 /* Circle */,
+				4E0219C5259FB06500BDFD96 /* Circle.swift */,
+				4E0219C6259FB06500BDFD96 /* RecordButton+Anim.swift */,
+				4E0219C7259FB06500BDFD96 /* RecordButton+Create.swift */,
+				4E0219C8259FB06500BDFD96 /* RecordButton.swift */,
 			);
 			path = RecordButton;
 			sourceTree = "<group>";
 		};
-		F13682902435027800DDC072 /* Circle */ = {
+		4E0219C1259FB06500BDFD96 /* Circle */ = {
 			isa = PBXGroup;
 			children = (
-				F13682912435027800DDC072 /* Circle+Helper.swift */,
-				F13682922435027800DDC072 /* Circle+Const.swift */,
-				F13682932435027800DDC072 /* Circle+Create.swift */,
+				4E0219C2259FB06500BDFD96 /* Circle+Helper.swift */,
+				4E0219C3259FB06500BDFD96 /* Circle+Const.swift */,
+				4E0219C4259FB06500BDFD96 /* Circle+Create.swift */,
 			);
 			path = Circle;
 			sourceTree = "<group>";
 		};
-		F13682982435027800DDC072 /* ShareButton */ = {
+		4E0219C9259FB06500BDFD96 /* ShareButton */ = {
 			isa = PBXGroup;
 			children = (
-				F13682992435027800DDC072 /* ShareButton+Const.swift */,
-				F136829A2435027800DDC072 /* ShareButton+Style.swift */,
-				F136829B2435027800DDC072 /* ShareButton.swift */,
-				F136829C2435027800DDC072 /* ShareButton+Event.swift */,
+				4E0219CA259FB06500BDFD96 /* ShareButton+Const.swift */,
+				4E0219CB259FB06500BDFD96 /* ShareButton+Style.swift */,
+				4E0219CC259FB06500BDFD96 /* ShareButton.swift */,
+				4E0219CD259FB06500BDFD96 /* ShareButton+Event.swift */,
 			);
 			path = ShareButton;
 			sourceTree = "<group>";
 		};
-		F136829D2435027800DDC072 /* helper */ = {
+		4E0219CE259FB06500BDFD96 /* helper */ = {
 			isa = PBXGroup;
 			children = (
-				F136829E2435027800DDC072 /* ClickButton */,
-				F13682A12435027800DDC072 /* ToggleButton */,
-				F13682A42435027800DDC072 /* RoundButton */,
+				4E0219CF259FB06500BDFD96 /* ClickButton */,
+				4E0219D2259FB06500BDFD96 /* ToggleButton */,
+				4E0219D5259FB06500BDFD96 /* RoundButton */,
 			);
 			path = helper;
 			sourceTree = "<group>";
 		};
-		F136829E2435027800DDC072 /* ClickButton */ = {
+		4E0219CF259FB06500BDFD96 /* ClickButton */ = {
 			isa = PBXGroup;
 			children = (
-				F136829F2435027800DDC072 /* ClickButton+Event.swift */,
-				F13682A02435027800DDC072 /* ClickButton.swift */,
+				4E0219D0259FB06500BDFD96 /* ClickButton+Event.swift */,
+				4E0219D1259FB06500BDFD96 /* ClickButton.swift */,
 			);
 			path = ClickButton;
 			sourceTree = "<group>";
 		};
-		F13682A12435027800DDC072 /* ToggleButton */ = {
+		4E0219D2259FB06500BDFD96 /* ToggleButton */ = {
 			isa = PBXGroup;
 			children = (
-				F13682A22435027800DDC072 /* ToggleButton+Event.swift */,
-				F13682A32435027800DDC072 /* ToggleButton.swift */,
+				4E0219D3259FB06500BDFD96 /* ToggleButton+Event.swift */,
+				4E0219D4259FB06500BDFD96 /* ToggleButton.swift */,
 			);
 			path = ToggleButton;
 			sourceTree = "<group>";
 		};
-		F13682A42435027800DDC072 /* RoundButton */ = {
+		4E0219D5259FB06500BDFD96 /* RoundButton */ = {
 			isa = PBXGroup;
 			children = (
-				F13682A52435027800DDC072 /* RoundButton.swift */,
-				F13682A62435027800DDC072 /* RoundButton+Event.swift */,
+				4E0219D6259FB06500BDFD96 /* RoundButton.swift */,
+				4E0219D7259FB06500BDFD96 /* RoundButton+Event.swift */,
 			);
 			path = RoundButton;
 			sourceTree = "<group>";
 		};
-		F13682A72435027800DDC072 /* DEPRECATED */ = {
+		4E0219D8259FB06500BDFD96 /* DEPRECATED */ = {
 			isa = PBXGroup;
 			children = (
-				F13682A82435027800DDC072 /* ZoomSwitcerBtn.swift */,
-				F13682A92435027800DDC072 /* ZoomSwitcerBtn+Handler.swift */,
-				F13682AA2435027800DDC072 /* ZoomSwitcerBtn+Style.swift */,
-				F13682AB2435027800DDC072 /* ZoomSwitcerBtn+Const.swift */,
+				4E0219D9259FB06500BDFD96 /* ZoomSwitcerBtn.swift */,
+				4E0219DA259FB06500BDFD96 /* ZoomSwitcerBtn+Handler.swift */,
+				4E0219DB259FB06500BDFD96 /* ZoomSwitcerBtn+Style.swift */,
+				4E0219DC259FB06500BDFD96 /* ZoomSwitcerBtn+Const.swift */,
 			);
 			path = DEPRECATED;
 			sourceTree = "<group>";
 		};
-		F13682AC2435027800DDC072 /* topbar */ = {
+		4E0219DD259FB06500BDFD96 /* topbar */ = {
 			isa = PBXGroup;
 			children = (
-				F13682AD2435027800DDC072 /* TopBar+Const.swift */,
-				F13682AE2435027800DDC072 /* TopBar.swift */,
-				F13682AF2435027800DDC072 /* button */,
-				F13682B92435027800DDC072 /* TopBar+Create.swift */,
+				4E0219DE259FB06500BDFD96 /* TopBar+Const.swift */,
+				4E0219DF259FB06500BDFD96 /* TopBar.swift */,
+				4E0219E0259FB06500BDFD96 /* button */,
+				4E0219EA259FB06500BDFD96 /* TopBar+Create.swift */,
 			);
 			path = topbar;
 			sourceTree = "<group>";
 		};
-		F13682AF2435027800DDC072 /* button */ = {
+		4E0219E0259FB06500BDFD96 /* button */ = {
 			isa = PBXGroup;
 			children = (
-				F13682B02435027800DDC072 /* ExitButton */,
-				F13682B32435027800DDC072 /* FlipButton */,
-				F13682B62435027800DDC072 /* FlashButton */,
+				4E0219E1259FB06500BDFD96 /* ExitButton */,
+				4E0219E4259FB06500BDFD96 /* FlipButton */,
+				4E0219E7259FB06500BDFD96 /* FlashButton */,
 			);
 			path = button;
 			sourceTree = "<group>";
 		};
-		F13682B02435027800DDC072 /* ExitButton */ = {
+		4E0219E1259FB06500BDFD96 /* ExitButton */ = {
 			isa = PBXGroup;
 			children = (
-				F13682B12435027800DDC072 /* ExitButton.swift */,
-				F13682B22435027800DDC072 /* ExitButton+Const.swift */,
+				4E0219E2259FB06500BDFD96 /* ExitButton.swift */,
+				4E0219E3259FB06500BDFD96 /* ExitButton+Const.swift */,
 			);
 			path = ExitButton;
 			sourceTree = "<group>";
 		};
-		F13682B32435027800DDC072 /* FlipButton */ = {
+		4E0219E4259FB06500BDFD96 /* FlipButton */ = {
 			isa = PBXGroup;
 			children = (
-				F13682B42435027800DDC072 /* FlipButton+Const.swift */,
-				F13682B52435027800DDC072 /* FlipButton.swift */,
+				4E0219E5259FB06500BDFD96 /* FlipButton+Const.swift */,
+				4E0219E6259FB06500BDFD96 /* FlipButton.swift */,
 			);
 			path = FlipButton;
 			sourceTree = "<group>";
 		};
-		F13682B62435027800DDC072 /* FlashButton */ = {
+		4E0219E7259FB06500BDFD96 /* FlashButton */ = {
 			isa = PBXGroup;
 			children = (
-				F13682B72435027800DDC072 /* FlashButton+Const.swift */,
-				F13682B82435027800DDC072 /* FlashButton.swift */,
+				4E0219E8259FB06500BDFD96 /* FlashButton+Const.swift */,
+				4E0219E9259FB06500BDFD96 /* FlashButton.swift */,
 			);
 			path = FlashButton;
 			sourceTree = "<group>";
 		};
-		F13682BA2435027800DDC072 /* BottomBar */ = {
+		4E0219EB259FB06500BDFD96 /* BottomBar */ = {
 			isa = PBXGroup;
 			children = (
-				F13682BB2435027800DDC072 /* ZoomSwitcherKind+Extension.swift */,
+				4E0219EC259FB06500BDFD96 /* ZoomSwitcherKind+Extension.swift */,
 			);
 			path = BottomBar;
 			sourceTree = "<group>";
@@ -430,6 +431,7 @@
 		F13682E22435054900DDC072 /* ui */ = {
 			isa = PBXGroup;
 			children = (
+				4E0219B9259FB06500BDFD96 /* default */,
 				F13682E32435054900DDC072 /* TopBarKind */,
 				F13682E72435054900DDC072 /* ZoomSwitcherKind.swift */,
 				F13682E82435054900DDC072 /* button */,
@@ -656,7 +658,6 @@
 			children = (
 				F1ABBEA020D0798B008B13B5 /* LaunchScreen.storyboard */,
 				F1ABBED420D07A11008B13B5 /* AppDelegate.swift */,
-				F13682882435027800DDC072 /* ui */,
 				F16F61E52342804600574EBE /* ViewController */,
 				F1ABBED520D07A12008B13B5 /* Assets.xcassets */,
 				F1ABBEAA20D07A11008B13B5 /* Info.plist */,
@@ -768,101 +769,101 @@
 			buildActionMask = 2147483647;
 			files = (
 				F136833E2435054900DDC072 /* ImageView.swift in Sources */,
-				F13682C32435027800DDC072 /* Circle+Create.swift in Sources */,
+				4E021A06259FB06500BDFD96 /* ZoomSwitcerBtn+Const.swift in Sources */,
 				F136832F2435054900DDC072 /* ZoomSwitcherKind.swift in Sources */,
 				F136832D2435054900DDC072 /* TopBarViewKind.swift in Sources */,
-				F13682D52435027800DDC072 /* ZoomSwitcerBtn+Const.swift in Sources */,
 				F136835A2435054900DDC072 /* CamPreviewView.swift in Sources */,
-				F13682CD2435027800DDC072 /* ClickButton.swift in Sources */,
 				F13683562435054900DDC072 /* CamUtil+Error.swift in Sources */,
 				F13683492435054900DDC072 /* HybridCamView+Create.swift in Sources */,
 				F13683462435054900DDC072 /* ProcessView.swift in Sources */,
-				F13682C12435027800DDC072 /* Circle+Helper.swift in Sources */,
 				F13683622435054900DDC072 /* CaptureError.swift in Sources */,
-				F13682D72435027900DDC072 /* TopBar.swift in Sources */,
+				4E0219F9259FB06500BDFD96 /* ShareButton+Const.swift in Sources */,
 				F136833D2435054900DDC072 /* ImageView+Extension.swift in Sources */,
-				F13682DE2435027900DDC072 /* TopBar+Create.swift in Sources */,
+				4E021A05259FB06500BDFD96 /* ZoomSwitcerBtn+Style.swift in Sources */,
 				F1059EE222EC36C6004A8346 /* ViewController+Extension.swift in Sources */,
 				F13683322435054900DDC072 /* ClickButtonKind+TypeAlias.swift in Sources */,
 				F13683642435054900DDC072 /* CamView+Feature.swift in Sources */,
 				F13683612435054900DDC072 /* CamView+ViewFinder.swift in Sources */,
 				F13683352435054900DDC072 /* ClickButtonKind.swift in Sources */,
 				F136835C2435054900DDC072 /* CamView+TypeAlias.swift in Sources */,
-				F13682DC2435027900DDC072 /* FlashButton+Const.swift in Sources */,
-				F13682D32435027800DDC072 /* ZoomSwitcerBtn+Handler.swift in Sources */,
-				F13682CC2435027800DDC072 /* ClickButton+Event.swift in Sources */,
+				4E0219ED259FB06500BDFD96 /* CustomProcessView.swift in Sources */,
 				F13683442435054900DDC072 /* VideoPlayerView+Close.swift in Sources */,
+				4E021A0B259FB06500BDFD96 /* FlipButton+Const.swift in Sources */,
+				4E021A02259FB06500BDFD96 /* RoundButton+Event.swift in Sources */,
 				F136833C2435054900DDC072 /* ProcessView+Action.swift in Sources */,
 				F13683332435054900DDC072 /* ToggleButtonKind.swift in Sources */,
 				F136834C2435054900DDC072 /* FileUtil.swift in Sources */,
-				F13682D62435027900DDC072 /* TopBar+Const.swift in Sources */,
 				F1ABBEF620D07A12008B13B5 /* AppDelegate.swift in Sources */,
-				F13682D42435027800DDC072 /* ZoomSwitcerBtn+Style.swift in Sources */,
-				F13682D02435027800DDC072 /* RoundButton.swift in Sources */,
+				4E0219FD259FB06500BDFD96 /* ClickButton+Event.swift in Sources */,
+				4E021A09259FB06500BDFD96 /* ExitButton.swift in Sources */,
+				4E021A03259FB06500BDFD96 /* ZoomSwitcerBtn.swift in Sources */,
+				4E0219F1259FB06500BDFD96 /* RecordButton+Const.swift in Sources */,
+				4E021A10259FB06500BDFD96 /* ZoomSwitcherKind+Extension.swift in Sources */,
 				F13683532435054900DDC072 /* AVCaptureSession+Setup.swift in Sources */,
 				F13683392435054900DDC072 /* ZoomSwitchBtnKind.swift in Sources */,
+				4E021A0F259FB06500BDFD96 /* TopBar+Create.swift in Sources */,
+				4E0219EF259FB06500BDFD96 /* RecordButton+Event.swift in Sources */,
+				4E0219F6259FB06500BDFD96 /* RecordButton+Anim.swift in Sources */,
+				4E0219FF259FB06500BDFD96 /* ToggleButton+Event.swift in Sources */,
 				F13683402435054900DDC072 /* ProcessView+TypeAlias.swift in Sources */,
-				F13682BD2435027800DDC072 /* CustomCamView.swift in Sources */,
-				F13682BE2435027800DDC072 /* RecordButton+Event.swift in Sources */,
 				F13683582435054900DDC072 /* CamView.swift in Sources */,
+				4E021A0D259FB06500BDFD96 /* FlashButton+Const.swift in Sources */,
 				F13683452435054900DDC072 /* VideoPlayerView+Action.swift in Sources */,
-				F13682D22435027800DDC072 /* ZoomSwitcerBtn.swift in Sources */,
+				4E0219F3259FB06500BDFD96 /* Circle+Const.swift in Sources */,
 				F16F61E22342786E00574EBE /* ViewController+Const.swift in Sources */,
 				F136835E2435054900DDC072 /* CamView+Create.swift in Sources */,
-				F13682DB2435027900DDC072 /* FlipButton.swift in Sources */,
 				F136835F2435054900DDC072 /* CamView+Photo.swift in Sources */,
-				F13682C42435027800DDC072 /* Circle.swift in Sources */,
-				F13682C92435027800DDC072 /* ShareButton+Style.swift in Sources */,
-				F13682BC2435027800DDC072 /* CustomProcessView.swift in Sources */,
+				4E021A0A259FB06500BDFD96 /* ExitButton+Const.swift in Sources */,
+				4E0219FC259FB06500BDFD96 /* ShareButton+Event.swift in Sources */,
 				F136833A2435054900DDC072 /* ProcessView+Create.swift in Sources */,
 				F16F61E423427FC100574EBE /* ViewController+Create.swift in Sources */,
+				4E021A04259FB06500BDFD96 /* ZoomSwitcerBtn+Handler.swift in Sources */,
+				4E0219FB259FB06500BDFD96 /* ShareButton.swift in Sources */,
 				F13683372435054900DDC072 /* RecordButtonKind.swift in Sources */,
 				F136834D2435054900DDC072 /* CamView+Const.swift in Sources */,
 				F13683312435054900DDC072 /* ToggleButtonKind+TypeAlias.swift in Sources */,
-				F13682BF2435027800DDC072 /* RecordButton+Handler.swift in Sources */,
+				4E0219FE259FB06500BDFD96 /* ClickButton.swift in Sources */,
 				F13683362435054900DDC072 /* RecordButtonKind+Const.swift in Sources */,
+				4E021A01259FB06500BDFD96 /* RoundButton.swift in Sources */,
+				4E021A00259FB06500BDFD96 /* ToggleButton.swift in Sources */,
 				F136833F2435054900DDC072 /* ProcessView+Helper.swift in Sources */,
-				F13682DD2435027900DDC072 /* FlashButton.swift in Sources */,
-				F13682C72435027800DDC072 /* RecordButton.swift in Sources */,
+				4E0219FA259FB06500BDFD96 /* ShareButton+Style.swift in Sources */,
+				4E0219F2259FB06500BDFD96 /* Circle+Helper.swift in Sources */,
 				F13683412435054900DDC072 /* VideoPlayerView.swift in Sources */,
 				F136834E2435054900DDC072 /* CamView+Video.swift in Sources */,
-				F13682CB2435027800DDC072 /* ShareButton+Event.swift in Sources */,
+				4E0219F0259FB06500BDFD96 /* RecordButton+Handler.swift in Sources */,
+				4E0219EE259FB06500BDFD96 /* CustomCamView.swift in Sources */,
 				F13683522435054900DDC072 /* AVCapturePhotoOutput+Feature.swift in Sources */,
-				F13682CF2435027800DDC072 /* ToggleButton.swift in Sources */,
-				F13682C22435027800DDC072 /* Circle+Const.swift in Sources */,
 				F13683432435054900DDC072 /* VideoPlayerView +Event.swift in Sources */,
 				F13683342435054900DDC072 /* ClickButtonKind+Const.swift in Sources */,
 				F136835D2435054900DDC072 /* CamView+Action.swift in Sources */,
+				4E021A07259FB06500BDFD96 /* TopBar+Const.swift in Sources */,
+				4E0219F4259FB06500BDFD96 /* Circle+Create.swift in Sources */,
 				F13683502435054900DDC072 /* CamView+Setup.swift in Sources */,
+				4E021A08259FB06500BDFD96 /* TopBar.swift in Sources */,
 				F13683632435054900DDC072 /* SetupError.swift in Sources */,
 				F13683592435054900DDC072 /* CamView+Getter.swift in Sources */,
-				F13682D92435027900DDC072 /* ExitButton+Const.swift in Sources */,
-				F13682DA2435027900DDC072 /* FlipButton+Const.swift in Sources */,
 				F13683572435054900DDC072 /* CamUtil.swift in Sources */,
 				F136834A2435054900DDC072 /* HybridCamView+TypeAlias.swift in Sources */,
 				F136834B2435054900DDC072 /* HybridCamView.swift in Sources */,
-				F13682C02435027800DDC072 /* RecordButton+Const.swift in Sources */,
 				F13683512435054900DDC072 /* AVCaptureDevice+Feature.swift in Sources */,
-				F13682C52435027800DDC072 /* RecordButton+Anim.swift in Sources */,
 				F13683472435054900DDC072 /* ProcessView+Event.swift in Sources */,
-				F13682DF2435027900DDC072 /* ZoomSwitcherKind+Extension.swift in Sources */,
-				F13682C82435027800DDC072 /* ShareButton+Const.swift in Sources */,
 				F136832C2435054900DDC072 /* RecordButtonViewKind.swift in Sources */,
 				F13683422435054900DDC072 /* VideoPlayerView+Create.swift in Sources */,
 				F136832E2435054900DDC072 /* TopBarKind.swift in Sources */,
 				F13683382435054900DDC072 /* RecordButtonKind+TypeAlias.swift in Sources */,
+				4E021A0C259FB06500BDFD96 /* FlipButton.swift in Sources */,
 				F136835B2435054900DDC072 /* CamPreviewView+Create.swift in Sources */,
-				F13682C62435027800DDC072 /* RecordButton+Create.swift in Sources */,
+				4E0219F8259FB06500BDFD96 /* RecordButton.swift in Sources */,
 				F1ABBED620D07A12008B13B5 /* ViewController.swift in Sources */,
 				F13683542435054900DDC072 /* AVCaptureDeviceInput+Feature.swift in Sources */,
-				F13682D12435027800DDC072 /* RoundButton+Event.swift in Sources */,
 				F13683552435054900DDC072 /* CamUtil+TypeAlias.swift in Sources */,
-				F13682CE2435027800DDC072 /* ToggleButton+Event.swift in Sources */,
+				4E021A0E259FB06500BDFD96 /* FlashButton.swift in Sources */,
 				F13683302435054900DDC072 /* ToggleButtonKind+Const.swift in Sources */,
 				F136834F2435054900DDC072 /* CamView+Gesture.swift in Sources */,
+				4E0219F5259FB06500BDFD96 /* Circle.swift in Sources */,
+				4E0219F7259FB06500BDFD96 /* RecordButton+Create.swift in Sources */,
 				F13683602435054900DDC072 /* CamView+GestureHandler.swift in Sources */,
-				F13682CA2435027800DDC072 /* ShareButton.swift in Sources */,
-				F13682D82435027900DDC072 /* ExitButton.swift in Sources */,
 				F136833B2435054900DDC072 /* ProcessView+Const.swift in Sources */,
 				F13683482435054900DDC072 /* HybridCamView+Handler.swift in Sources */,
 			);

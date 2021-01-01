@@ -5,7 +5,7 @@ open class ExitButton: ClickButton {
       let rect = ExitButton.rect
       super.init(frame: rect)
       self.backgroundColor = .clear
-      self.setImage(#imageLiteral(resourceName: "cancel"), for: .normal)
+        set
    }
    /**
     * Boilerplate
