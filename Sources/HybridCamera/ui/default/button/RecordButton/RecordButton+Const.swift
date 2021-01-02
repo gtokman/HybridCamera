@@ -12,7 +12,7 @@ extension RecordButton {
       let size: CGSize = .init(width: 80, height: 80)
       let bottomCenter: CGPoint = {
          let rect: CGRect = UIScreen.main.bounds
-         let bottomMargin: CGFloat = 20
+         let bottomMargin: CGFloat = 40
          return .init(x: rect.midX - (size.width / 2), y: rect.height - size.height - bottomMargin)
       }()
       return .init(x: bottomCenter.x, y: bottomCenter.y, width: size.width, height: size.height)

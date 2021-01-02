@@ -15,7 +15,7 @@ extension ZoomSwitcher {
       }()
       let y: CGFloat = {
          let rect: CGRect = UIScreen.main.bounds
-         let bottomMargin: CGFloat = 20
+         let bottomMargin: CGFloat = 40
          let size: CGSize = RecordButton.rect.size
          return rect.height - size.height / 2 - bottomMargin
       }()
